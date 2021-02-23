@@ -3,8 +3,9 @@
 - 🌱 I am learning to make my first mod!
 - 💞️ Anyway I have some fun little mods for Mindustry, the big project (named Project Purple) is here: https://github.com/PurplePikachu/The-Purple-Mod
 - 📫 Reddit: https://www.reddit.com/user/PikachuPurple
-- 📫 Discord: PurplePikachu#9735
+- 📫 Discord (profile): PurplePikachu#9735
 - 📫 Github- *awkward silence*
+- 📫 Fandom: https://community.fandom.com/wiki/User:Pikapurple
 <!---
 oi
 --->
